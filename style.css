@@ -278,5 +278,9 @@
 			margin: 0;
 			border: none;
 		}
+
+		#header{
+			position: fixed;
+		}
 	}
 	
